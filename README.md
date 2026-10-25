@@ -43,3 +43,19 @@ Follow the numbered menu to add income or expenses, view transactions, generate 
 
 ## Monetary Precision
 The application uses Java's `BigDecimal` instead of floating-point types for monetary calculations to avoid common floating-point rounding errors.
+## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/menu.png)
+
+### Transactions
+![Transactions](screenshots/transactions.png)
+
+### Monthly Summary
+![Monthly Summary](screenshots/monthly-summary.png)
+
+### Category Filter
+![Category Filter](screenshots/category-filter.png)
+
+### Export Report
+![Export Report](screenshots/export-report.png)
